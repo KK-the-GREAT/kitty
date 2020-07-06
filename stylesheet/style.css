@@ -1,0 +1,22 @@
+
+.big-button 
+{
+    background-color: #2927aa; /* blue */
+    border: none;
+    margin: 10px;
+    transition-duration: 0.4s;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 15px;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Baloo Bhai 2', cursive;
+    ;
+}
+.big-button:hover
+{
+    text-decoration: none;
+    background-color: #605ef0;    
+}
